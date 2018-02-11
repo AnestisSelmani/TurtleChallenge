@@ -1,0 +1,11 @@
+C:\Development\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.0\TurtleChallenge.deps.json
+C:\Development\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.0\TurtleChallenge.runtimeconfig.json
+C:\Development\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.0\TurtleChallenge.runtimeconfig.dev.json
+C:\Development\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.0\TurtleChallenge.dll
+C:\Development\TurtleChallenge\TurtleChallenge\bin\Debug\netcoreapp2.0\TurtleChallenge.pdb
+C:\Development\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.0\TurtleChallenge.csprojResolveAssemblyReference.cache
+C:\Development\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.0\TurtleChallenge.csproj.CoreCompileInputs.cache
+C:\Development\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.0\TurtleChallenge.AssemblyInfoInputs.cache
+C:\Development\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.0\TurtleChallenge.AssemblyInfo.cs
+C:\Development\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.0\TurtleChallenge.dll
+C:\Development\TurtleChallenge\TurtleChallenge\obj\Debug\netcoreapp2.0\TurtleChallenge.pdb

@@ -1,0 +1,30 @@
+{
+	"Board":
+	{
+		"MaxX": 5,
+		"MaxY": 6
+	},
+	"StartingPosition":
+	{
+		"X": 2,
+		"Y": 1
+	},
+	"ExitPosition":
+	{
+		"X": 2,
+		"Y": 3		
+	},
+	"Direction": 3,
+	"MinePositions":
+	[
+		{
+			"X": 1,
+			"Y": 1	
+		},
+		{
+			"X": 3,
+			"Y": 3	
+		}
+	]
+	
+}

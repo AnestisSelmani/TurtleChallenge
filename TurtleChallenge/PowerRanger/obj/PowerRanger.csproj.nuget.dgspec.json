@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj": {}
+    "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj": {
+    "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj",
+        "projectUniqueName": "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj",
         "projectName": "PowerRanger",
-        "projectPath": "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj",
+        "projectPath": "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\PowerRanger.csproj",
         "packagesPath": "C:\\Users\\mis14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\obj\\",
+        "outputPath": "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\PowerRanger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mis14\\AppData\\Roaming\\NuGet\\NuGet.Config",

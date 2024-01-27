@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {}
+    "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {
+    "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
         "projectName": "TurtleChallenge",
-        "projectPath": "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
+        "projectPath": "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge.csproj",
         "packagesPath": "C:\\Users\\mis14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mis14\\Source\\Repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\obj\\",
+        "outputPath": "C:\\Users\\mis14\\source\\repos\\TurtleChallenge\\TurtleChallenge\\TurtleChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mis14\\AppData\\Roaming\\NuGet\\NuGet.Config",

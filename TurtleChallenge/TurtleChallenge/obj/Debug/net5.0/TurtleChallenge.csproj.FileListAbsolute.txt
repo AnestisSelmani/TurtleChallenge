@@ -1,0 +1,15 @@
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\TurtleChallenge.exe
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\TurtleChallenge.deps.json
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\TurtleChallenge.runtimeconfig.json
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\TurtleChallenge.runtimeconfig.dev.json
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\TurtleChallenge.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\ref\TurtleChallenge.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\bin\Debug\net5.0\TurtleChallenge.pdb
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.AssemblyInfoInputs.cache
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.AssemblyInfo.cs
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\ref\TurtleChallenge.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.pdb
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\TurtleChallenge\obj\Debug\net5.0\TurtleChallenge.genruntimeconfig.cache

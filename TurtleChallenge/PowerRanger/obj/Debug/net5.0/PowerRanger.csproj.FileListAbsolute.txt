@@ -1,0 +1,15 @@
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\PowerRanger.exe
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\PowerRanger.deps.json
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\PowerRanger.runtimeconfig.json
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\PowerRanger.runtimeconfig.dev.json
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\PowerRanger.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\ref\PowerRanger.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\bin\Debug\net5.0\PowerRanger.pdb
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.AssemblyInfoInputs.cache
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.AssemblyInfo.cs
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.csproj.CoreCompileInputs.cache
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\ref\PowerRanger.dll
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.pdb
+C:\Users\mis14\Source\Repos\TurtleChallenge\TurtleChallenge\PowerRanger\obj\Debug\net5.0\PowerRanger.genruntimeconfig.cache
